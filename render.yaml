@@ -1,0 +1,14 @@
+name: lordpremo
+services:
+  bot:
+    build:
+      type: node
+      path: .
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: LORD PREMO XX BUG BOT
+        value: "Lord Premo"
+      - key: BRAND_THEME
+        value: "neon"
