@@ -1,21 +1,25 @@
 <h1 align="center"> PREMO BOT </h1>
 <p align="center">  
   
-*
+***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREMO-BOT;WHATSAPP+BOT;CREATED+BY+LORD+PREMO;RELEASED+17.01.26" alt="Typing SVG" /></a>
-  </p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=40&pause=1000&color=FF00FF&center=true&width=910&height=100&lines=LORD+PREMO+XX+BUG+IS+AVAILABLE+IN+THE+BLACK+NIGHT" alt="Typing SVG" />
+</a>
+</p>
 
-  <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/a65b31d0822efe8163655.jpg">
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029VbBkQRi30LKNq4vrw63F">
+    <img alt="Premo Bot Banner" height="300" src="https://telegra.ph/file/a65b31d0822efe8163655.jpg">
     <h1 align="center">PREMO BOT</h1>
   </a>
 </p>
+
 <p align="center">
-<a href="https://github.com/CyberVenom3"><img title="Author" src="https://img.shields.io/badge/LordPremo-black?style=for-the-badge&logo=Github"></a> 
-<a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
-<a href="https://wa.me/+255688422125"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/CyberVenom3"><img title="Author" src="https://img.shields.io/badge/LordPremo-NEON%20BLACK?style=for-the-badge&logo=Github&color=FF00FF"></a> 
+<a href="https://whatsapp.com/channel/0029VbBkQRi30LKNq4vrw63F"><img title="Channel" src="https://img.shields.io/badge/CHANNEL-NEON%20BLACK?style=for-the-badge&logo=whatsapp&color=00FFFF"></a> 
+<a href="https://wa.me/+255688422125"><img title="Chat" src="https://img.shields.io/badge/CHAT%20US-NEON%20BLACK?style=for-the-badge&logo=whatsapp&color=39FF14"></a>
+</p>
 
 ---
 
@@ -25,32 +29,32 @@ If you clone my repo or use as base bot, don’t forget to give credits. LORD PR
 
 ---
 
-1. FORK THIS REPO
+### 🚀 1. FORK THIS REPO
 
-<a href='https://github.com/CyberVenom3/King-lord-premo-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/CyberVenom3/King-lord-premo-/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork%20This%20Repo-NEON%20BLACK?style=for-the-badge&logo=git&logoColor=white&color=FF00FF'/></a>
 
 ---
 
-2. DEPLOYMENT PROCESS
+### ⚡ 2. DEPLOYMENT PROCESS
 
-DEPLOY ON PANEL
+#### DEPLOY ON PANEL
 IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY  
-<a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
+<a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-NEON%20BLACK?style=for-the-badge&logo=panel&logoColor=white&color=00FFFF'/></a>
 
-OR
-1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>  
-2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+#### OR
+1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-NEON%20GREEN?style=for-the-badge&logo=whatsapp&color=39FF14" alt="Clique ici pour avoir le Pair-Code" width="120"></a>  
+2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy%20on%20Render-NEON%20BLACK?style=for-the-badge&logo=render&logoColor=white&color=FF00FF'/></a>
 
-Watch Tutorial Videos
-* ![YOUTUBE](https://www.youtube.com/@prexzyvilla)
+#### 🎥 Watch Tutorial Videos
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-NEON%20RED?style=for-the-badge&logo=youtube&logoColor=white&color=FF3131)](https://www.youtube.com/@prexzyvilla)
 
 ---
 
-DEPLOYMENT ON TERMUX
+### 💻 DEPLOYMENT ON TERMUX
 
-Go to your termux and input these commands
+**Go to your termux and input these commands**
 
-`bash
+```bash
 apt update
 apt upgrade
 pkg update && pkg upgrade
@@ -66,32 +70,3 @@ git clone https://github.com/CyberVenom3/King-lord-premo-
 cd King-lord-premo-
 yarn install
 npm start
-If you see any question while upgrading with options Y for yes or N for no = Click yes or y  
-If you see any question while upgrading with options Y or n for default = Click n for Default  
-
-It will ask you for your number type it with country code +  
-It will give you a pair code go and link it to your WhatsApp  
-After linking  
-Bot Connected ⚡  
-Enjoy 🤖
-
----
-
-REPORT ISSUES
-
-`bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install git
-pkg install nodejs
-pkg install ffmpeg
-pkg install wget
-pkg install imagemagick
-pkg install yarn
-termux-setup-storage
-git clone https://github.com/CyberVenom3/King-lord-premo-
-cd King-lord-premo-
-yarn install
-npm star
